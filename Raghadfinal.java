@@ -3,7 +3,8 @@ import java.util.Scanner;
 import java.util.Locale;
 /**                                                 
  *                                                 
- * @author USER                                    
+Raghad_alsebayyil
+
  */                                                 
 public class Raghadfinal {
 
